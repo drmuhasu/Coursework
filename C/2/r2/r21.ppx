@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="main.c" />
+	<category name="composition.h" />
+	<category name="composition.c" />
+</settings>
